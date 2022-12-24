@@ -17,7 +17,7 @@ const HomeScreen = () => {
 
     return (
         <SafeAreaView>
-            <Text className=' text-red-300'>Esto lo estoy escribiendo desde mi pc y como seria pues pa olernos 7 rayas y un garrafo</Text>
+            <Text className=' text-red-300'>My first native app I'm trippin'!!!</Text>
         </SafeAreaView>
     )
 }
